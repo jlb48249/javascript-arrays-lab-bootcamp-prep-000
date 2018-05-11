@@ -7,5 +7,5 @@ destructivelyAppendKitten(name); {
 }
 
 destructivelyPrependKitten(name); {
-  kittens.
+  kittens.unshift(name);
 }
